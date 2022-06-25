@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VJS-50
-- 👀 I’m interested in Software Programming, science.
+- 👀 I’m interested in Software Programming and Science.
 - 🌱 Recent Graduate of Computer Programming at Seneca College
 - 📫 How to reach me ...
 
