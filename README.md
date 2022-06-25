@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VJS-50
-- 👀 I’m interested in Software Programming, Firearms, Anything related to science
-- 🌱 I’m currently learning Computer Science at Seneca College
+- 👀 I’m interested in Software Programming, science.
+- 🌱 Recent Graduate of Computer Programming at Seneca College
 - 📫 How to reach me ...
 
 <!---
